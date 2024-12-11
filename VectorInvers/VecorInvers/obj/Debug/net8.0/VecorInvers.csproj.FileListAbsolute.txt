@@ -1,0 +1,15 @@
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\bin\Debug\net8.0\VecorInvers.exe
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\bin\Debug\net8.0\VecorInvers.deps.json
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\bin\Debug\net8.0\VecorInvers.runtimeconfig.json
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\bin\Debug\net8.0\VecorInvers.dll
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\bin\Debug\net8.0\VecorInvers.pdb
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.sourcelink.json
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.dll
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\refint\VecorInvers.dll
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.pdb
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\VecorInvers.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\VecorInvers\VecorInvers\obj\Debug\net8.0\ref\VecorInvers.dll
